@@ -76,8 +76,52 @@ Curso em progresso, que será registrado no gitHub a partir de agora.
 > - array
 > - foreach
 > - matriz
+> - equals & hashCode
+> - collections
+> - set, list, queue, stack, map
 > 
-> - https://github.com/catsncodes/java-coder/tree/main/src/exercicios/arrays
+> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/arrays
+
+> ### 7. Orientação a Objetos
+> - composição e reuso
+> - relacionamentos entre objetos
+> - paradigmas de orientação a objetos
+> - enum
+> - herança
+> - encapsulamento
+> - modificadores de acesso, getters e setters
+> - polimorfismo
+> - interface
+> - classe abstrata
+> 
+> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/oo
+
+> ### 8 Lambda
+> - funções lambda
+> - interface funcional
+> - foreach funcional
+> - predicate
+> - constumer
+> - function
+> - supplier
+> - unary operation
+> - binary operator
+> - bifuction
+> - interfaces funcionais antes do java 8
+> 
+> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/oo
+
+> ### 9 Strem API
+> - list/Iterator/Stream
+> - criando Stream
+> - map
+> - filter
+> - reduce
+> - match
+> - min e max
+> - outros métodos
+> 
+> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/oo
 
 
 
