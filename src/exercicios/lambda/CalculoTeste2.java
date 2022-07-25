@@ -8,5 +8,8 @@ public class CalculoTeste2 {
 		
 		calc = (x, y) -> x * y;
 		System.out.println(calc.executar(2, 3));
+		
+		System.out.println(calc.legal());
+		System.out.println(calc.muitoLegal());
 	}
 }
